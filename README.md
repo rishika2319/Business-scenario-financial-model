@@ -43,11 +43,3 @@ The model compares **Best Case, Realistic Case, and Worst Case** scenarios to un
 
 * Excel model containing scenario calculations
 * Screenshot showing the model structure and outputs
-
-
-
-
-
-
-Main ready hoon 🔥
-
